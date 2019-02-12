@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baogaeci.uncount.com/sitemap.xml
